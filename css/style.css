@@ -1766,11 +1766,11 @@ a:focus, a:hover {
 .footer-bottom a {
   color: #f0326b;
 }
-
+/*
 .subscribe-form .form-control {
   border-radius: 0;
 }
-
+*/
 .page-404 {
   height: 100vh;
 }
