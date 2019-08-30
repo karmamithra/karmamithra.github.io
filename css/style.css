@@ -49,7 +49,7 @@ a, a:focus, a:hover {
 }
 
 a:focus, a:hover {
-  color: #f0326b;
+  color: #228B22;
 }
 
 .btn-main, .btn-main-sm {
@@ -149,7 +149,7 @@ a:focus, a:hover {
 }
 
 #preloader {
-  background: #f0326b;
+  background: #228B22;
   height: 100%;
   opacity: 1;
   filter: alpha(opacity=100);
@@ -400,7 +400,7 @@ a:focus, a:hover {
 }
 
 .header-bradcrumb a:hover {
-  color: #f0326b;
+  color: #228B22;
 }
 
 .slick-slide {
@@ -424,15 +424,15 @@ a:focus, a:hover {
 }
 
 .commonTab .nav-tabs .nav-item .nav-link.active {
-  border: 1px solid #f0326b;
-  background: #f0326b;
+  border: 1px solid #228B22;
+  background: #228B22;
   color: #fff;
 }
 
 .commonTab .nav-tabs .nav-item .nav-link:hover {
-  border: 1px solid #f0326b;
+  border: 1px solid #228B22;
   border-radius: 0;
-  background: #f0326b;
+  background: #228B22;
   color: #fff;
 }
 
@@ -463,7 +463,7 @@ a:focus, a:hover {
 }
 
 .single-page-header .breadcrumb li a {
-  color: #f0326b;
+  color: #228B22;
 }
 
 .navigation {
@@ -497,7 +497,7 @@ a:focus, a:hover {
 
 .navigation .navbar-nav > li > a:hover, .navigation .navbar-nav > li > a:active, .navigation .navbar-nav > li > a:focus {
   background: none;
-  color: #f0326b;
+  color: #228B22;
 }
 
 .navigation .navbar-toggler {
@@ -523,7 +523,7 @@ a:focus, a:hover {
 
 .navigation .dropdown .dropdown-item:hover {
   background: transparent;
-  color: #f0326b;
+  color: #228B22;
 }
 
 .navigation .dropdown .dropdown-menu {
@@ -647,7 +647,7 @@ a:focus, a:hover {
   transition: transform 300ms ease;
   transition: transform 300ms ease, -webkit-transform 300ms ease;
   background: #fff;
-  color: #f0326b;
+  color: #228B22;
   line-height: 80px;
   font-size: 30px;
   margin-left: 5px;
@@ -719,7 +719,7 @@ a:focus, a:hover {
 
 .about h4 {
   font-size: 14px;
-  color: #f0326b;
+  color: #228B22;
   letter-spacing: 1px;
   text-transform: uppercase;
 }
@@ -840,7 +840,7 @@ a:focus, a:hover {
 .contact-form input:hover,
 .contact-form textarea:hover,
 .contact-form #contact-submit:hover {
-  border-color: #f0326b;
+  border-color: #228B22;
 }
 
 .contact-form #contact-submit {
@@ -848,7 +848,7 @@ a:focus, a:hover {
   padding: 15px 0;
   width: 100%;
   margin: 0;
-  background: #f0326b;
+  background: #228B22;
   color: #fff;
   border-radius: 0;
   cursor: pointer;
@@ -878,7 +878,7 @@ a:focus, a:hover {
   height: 30px;
   width: 30px;
   text-align: center;
-  color: #f0326b;
+  color: #228B22;
 }
 
 .social-icon li a i {
@@ -969,7 +969,7 @@ a:focus, a:hover {
 .counters-item i {
   font-size: 40px;
   display: inline-block;
-  color: #f0326b;
+  color: #228B22;
 }
 
 .counters-item h3 {
@@ -1063,12 +1063,12 @@ a:focus, a:hover {
 }
 
 .portfolio-filter button:hover {
-  border-bottom: 2px solid #f0326b;
+  border-bottom: 2px solid #228B22;
   color: #000;
 }
 
 .portfolio-filter button.mixitup-control-active {
-  border-bottom: 2px solid #f0326b;
+  border-bottom: 2px solid #228B22;
   color: #000;
 }
 
@@ -1132,7 +1132,7 @@ a:focus, a:hover {
 }
 
 .portfolio-block .caption .search-icon {
-  background: #f0326b;
+  background: #228B22;
   color: #fff;
   display: inline-block;
   padding: 4px 13px;
@@ -1160,7 +1160,7 @@ a:focus, a:hover {
 
 .services .service-block i {
   font-size: 40px;
-  color: #f0326b;
+  color: #228B22;
   background: linear-gradient(100deg, #f9643d, #fe2a77);
   background-clip: text;
   -webkit-background-clip: text;
@@ -1229,7 +1229,7 @@ a:focus, a:hover {
 }
 
 .service-list .block {
-  background: #f0326b;
+  background: #228B22;
   color: #fff;
   padding: 30px;
 }
@@ -1253,7 +1253,7 @@ a:focus, a:hover {
 }
 .client-service-list li i{
   margin-right: 10px;
-  color: #f0326b;
+  color: #228B22;
 }
 
 /*=================================================================
@@ -1276,7 +1276,7 @@ a:focus, a:hover {
 }
 
 .team-skills .progress-block .progress .progress-bar {
-  background: #f0326b;
+  background: #228B22;
   box-shadow: none;
 }
 
@@ -1321,7 +1321,7 @@ a:focus, a:hover {
 }
 
 .development-steps .step-2 {
-  background-color: #f0326b;
+  background-color: #228B22;
 }
 
 .development-steps .step-2 h4, .development-steps .step-2 p {
@@ -1397,7 +1397,7 @@ a:focus, a:hover {
 }
 
 .team-member .member-content ul li a i {
-  color: #f0326b;
+  color: #228B22;
   background: linear-gradient(100deg, #f9643d, #fe2a77);
   background-clip: text;
   -webkit-background-clip: text;
@@ -1422,7 +1422,7 @@ a:focus, a:hover {
   Testimonial section
 ==================================================================*/
 .testimonial {
-  background: #f0326b;
+  background: #228B22;
   position: relative;
 }
 
@@ -1567,7 +1567,7 @@ a:focus, a:hover {
 }
 
 .next-prev a:hover {
-  color: #f0326b;
+  color: #228B22;
 }
 
 .next-prev .prev-post i {
@@ -1590,7 +1590,7 @@ a:focus, a:hover {
 }
 
 .social-profile ul li a i:hover {
-  color: #f0326b;
+  color: #228B22;
 }
 
 .comments-section {
@@ -1638,7 +1638,7 @@ a:focus, a:hover {
 }
 
 .comment-wrap .media .media-heading a {
-  color: #f0326b;
+  color: #228B22;
   font-size: 13px;
 }
 
@@ -1663,7 +1663,7 @@ a:focus, a:hover {
 
 .comment-reply-form input:focus, .comment-reply-form textarea:focus {
   box-shadow: none;
-  border: 1px solid #f0326b;
+  border: 1px solid #228B22;
 }
 
 .comment-reply-form textarea, .comment-reply-form .btn-main, .comment-reply-form .btn-main-sm {
@@ -1684,7 +1684,7 @@ a:focus, a:hover {
   color: #cccccc;
 }
 .pagination li.active a{
-  color: #f0326b;
+  color: #228B22;
   font-weight: 600;
 }
 
@@ -1728,7 +1728,7 @@ a:focus, a:hover {
 }
 
 .top-footer li a:hover {
-  color: #f0326b;
+  color: #228B22;
 }
 
 .footer-bottom {
@@ -1764,7 +1764,7 @@ a:focus, a:hover {
 }
 
 .footer-bottom a {
-  color: #f0326b;
+  color: #228B22;
 }
 /*
 .subscribe-form .form-control {
